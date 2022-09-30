@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(248, 232, 166);
+  display: block;
+  margin: 40px;
+}
+h1,
+p {
+  text-align: center;
+  margin-bottom: 40px;
+}
+footer {
+  display: block;
+  text-align: center;
+}
